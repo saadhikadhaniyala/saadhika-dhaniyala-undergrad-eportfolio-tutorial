@@ -2,9 +2,9 @@
 
 This is a plain HTML/CSS portfolio template built for a workshop talk. No frameworks, no npm, no build step — just files you open in a browser.
 
-**Live demo:** `https://avhbac.github.io/undergrad-eportfolio-tutorial/`
+**Scan to open this tutorial on GitHub — fork it and start building your portfolio.**
 
-![QR code to live site](qr-code.png)
+![QR code to this GitHub repo](qr-code.png)
 
 ---
 
