@@ -28,12 +28,23 @@ A free, ready-to-use portfolio template for students. No coding experience neede
 
 ## How to get started
 
-1. **Fork this repo** — click the Fork button at the top right. This gives you your own copy.
-2. **Turn on GitHub Pages** — go to Settings → Pages → Source → main branch → Save.
-3. Your site goes live at `https://your-username.github.io/undergrad-eportfolio-tutorial/` within a minute.
-4. **Edit the files** to replace the placeholder text with your real information.
+**Step 1 — Create a free GitHub account**
+Go to [github.com](https://github.com), click **Sign up**, and create an account. Your username will appear in your website link, so pick something professional (e.g. `alex-johnson`).
 
-For full step-by-step instructions (including how to add your photo and resume), read [`HOSTING_GUIDE.md`](HOSTING_GUIDE.md).
+**Step 2 — Get your own copy of this project**
+Click the **Fork** button at the top right of this page. This copies the whole project into your own GitHub account so you can edit it freely.
+
+**Step 3 — Turn it into a live website**
+In your copy, go to **Settings → Pages → Source → main branch → Save**. GitHub will publish your files as a real website. It takes about 60 seconds.
+
+**Step 4 — Find your live link**
+After saving, refresh the Settings → Pages screen. Your link will appear — it looks like:
+`https://your-username.github.io/undergrad-eportfolio-tutorial/`
+
+**Step 5 — Edit the files to make it yours**
+Click on any file (start with `index.html`), click the pencil icon to edit, replace the placeholder text, and click **Commit changes**. Your live site updates within a minute.
+
+For photos, resume upload, and everything else, read [`HOSTING_GUIDE.md`](HOSTING_GUIDE.md) — it explains every step from scratch.
 
 ---
 
