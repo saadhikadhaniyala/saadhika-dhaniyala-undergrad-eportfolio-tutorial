@@ -7,8 +7,8 @@
   --accent:    #59b2ff;   /* primary colour — buttons, links, highlights */
   --accent-dark: #458ac6;
   --bg:        #d1eaff;   /* page background */
-  --surface:   #ffffff;   /* card / panel background */
-  --text:      #1e293b;   /* body text */
+  --surface:   #d1eaff;   /* card / panel background */
+  --text:      #ffffff;   /* body text */
   --muted:     #64748b;   /* secondary / placeholder text */
   --border:    #e2e8f0;
   --radius:    0.5rem;
