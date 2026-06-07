@@ -4,11 +4,11 @@
    ============================================================ */
 
 :root {
-  --accent:    #59b2ff;   /* primary colour — buttons, links, highlights */
-  --accent-dark: #458ac6;
+  --accent:    #088eff;   /* primary colour — buttons, links, highlights */
+  --accent-dark: #006dc9;
   --bg:        #d1eaff;   /* page background */
   --surface:   #d1eaff;   /* card / panel background */
-  --text:      #ffffff;   /* body text */
+  --text:      #000000;   /* body text */
   --muted:     #64748b;   /* secondary / placeholder text */
   --border:    #e2e8f0;
   --radius:    0.5rem;
