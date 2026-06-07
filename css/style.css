@@ -4,9 +4,9 @@
    ============================================================ */
 
 :root {
-  --accent:    #2563eb;   /* primary colour — buttons, links, highlights */
-  --accent-dark: #1d4ed8;
-  --bg:        #f8fafc;   /* page background */
+  --accent:    #59b2ff;   /* primary colour — buttons, links, highlights */
+  --accent-dark: #458ac6;
+  --bg:        #d1eaff;   /* page background */
   --surface:   #ffffff;   /* card / panel background */
   --text:      #1e293b;   /* body text */
   --muted:     #64748b;   /* secondary / placeholder text */
