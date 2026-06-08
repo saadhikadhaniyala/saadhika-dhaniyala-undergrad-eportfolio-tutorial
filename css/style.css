@@ -93,8 +93,7 @@ nav {
 /* ── Hero ── */
 .hero {
   padding: 5rem 0 4rem;
-  background: linear-gradient(135deg, var(--surface) 60%, #eff6ff 100%);
-  border-bottom: 1px solid var(--border);
+   background: var(--bg);  border-bottom: 1px solid var(--border);
 }
 .hero-inner {
   display: flex; align-items: center; gap: 3rem;
